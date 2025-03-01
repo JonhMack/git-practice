@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 Esto es un archivo de la rama feature1.
